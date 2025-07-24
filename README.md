@@ -44,12 +44,18 @@ pip install fastf1 numpy pandas scikit-learn matplotlib
 ```
 
 ## 🔧 Usage
-# Example: generate predictions for the Australian GP
+
+### Example: generate predictions for the Australian GP
+```bash
 python3 prediction1.py
+```
+
+```text
 🏁 Predicted 2025 Australian GP Winner 🏁
-Driver: Charles Leclerc   |   Predicted Race Time: 82.67 s
+Driver: Charles Leclerc | Predicted Race Time: 82.67 s
 ...
 🔍 Model MAE: 3.22 seconds
+```
 
 ## 📈 Model Performance
 The Mean Absolute Error (MAE) is used to evaluate how well the model predicts race times. Lower MAE values indicate more accurate predictions.
