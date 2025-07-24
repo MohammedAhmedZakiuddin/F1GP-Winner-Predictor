@@ -57,9 +57,7 @@ The Mean Absolute Error (MAE) is used to evaluate how well the model predicts ra
 ## 📌 Future Improvements
 - Introduce **weather conditions** as model features  
 - Add **pit‑stop strategy** variables  
-- Experiment with **deep‑learning** architectures for further gains  
-
-Follow **@mar_antaya** on Instagram & TikTok for fresh predictions before every 2025 race.
+- Experiment with **deep‑learning** architectures for further gains.
 
 ---
 
