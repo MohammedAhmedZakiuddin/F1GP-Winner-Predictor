@@ -54,7 +54,7 @@ pip install fastf1 numpy pandas scikit-learn matplotlib
 
 ## 🔧 Usage
 
-### Example: generate predictions for the Australian GP
+### Example: Generate predictions for the Australian GP
 ```bash
 python3 prediction1.py
 ```
