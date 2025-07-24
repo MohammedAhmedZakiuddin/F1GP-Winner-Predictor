@@ -53,3 +53,20 @@ Driver: Charles Leclerc   |   Predicted Race Time: 82.67 s
 
 ## 📈 Model Performance
 The Mean Absolute Error (MAE) is used to evaluate how well the model predicts race times. Lower MAE values indicate more accurate predictions.
+
+## 📌 Future Improvements
+- Introduce **weather conditions** as model features  
+- Add **pit‑stop strategy** variables  
+- Experiment with **deep‑learning** architectures for further gains  
+
+Follow **@mar_antaya** on Instagram & TikTok for fresh predictions before every 2025 race.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+
+🏎️ **Start predicting F1 races like a data scientist!** 🚀
+
