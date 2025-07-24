@@ -39,9 +39,18 @@ Key ingredients:
 ---
 
 ## 📦 Dependencies
+- fastf1
+- numpy
+- pandas
+- scikit-learn
+- matplotlib
+
 ```bash
 pip install fastf1 numpy pandas scikit-learn matplotlib
 ```
+
+## File Structure
+- For every race the end of the file will be numbered in correlation to the race on the calendar, ex. prediction1 - Australia, prediction2 - China, etc.
 
 ## 🔧 Usage
 
